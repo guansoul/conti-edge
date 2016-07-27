@@ -1,0 +1,43 @@
+# ContiEdge.OrderDetailDTO
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**allError** | [**[ObjectError]**](ObjectError.md) |  | [optional] 
+**beautyItemList** | [**[BeautyService]**](BeautyService.md) |  | [optional] 
+**bookEndTimeLong** | **Integer** |  | [optional] 
+**bookStartTimeLong** | **Integer** |  | [optional] 
+**cancelReason** | **String** |  | [optional] 
+**comment** | **String** |  | [optional] 
+**commentTime** | **String** |  | [optional] 
+**commentTimeLong** | **Integer** |  | [optional] 
+**enviroment** | **Integer** |  | [optional] 
+**forwardURL** | **String** |  | [optional] 
+**lastMileage** | **Integer** |  | [optional] 
+**lastModifiedDate** | **Integer** |  | [optional] 
+**maintenanceDistance** | **Integer** |  | [optional] 
+**maintenanceItemList** | [**[MaintenanceItem]**](MaintenanceItem.md) |  | [optional] 
+**message** | **String** |  | [optional] 
+**messageCode** | **String** |  | [optional] 
+**mileage** | **Integer** |  | [optional] 
+**orderNo** | **String** |  | [optional] 
+**otherItemList** | [**[OtherService]**](OtherService.md) |  | [optional] 
+**repairItemList** | [**[RepairItem]**](RepairItem.md) |  | [optional] 
+**reply** | **String** |  | [optional] 
+**replyTime** | **String** |  | [optional] 
+**replyTimeLong** | **Integer** |  | [optional] 
+**resultCode** | **Integer** |  | [optional] 
+**serviceQuality** | **Integer** |  | [optional] 
+**serviceSpeed** | **Integer** |  | [optional] 
+**shopAddress** | **String** |  | [optional] 
+**shopId** | **Integer** |  | [optional] 
+**shopName** | **String** |  | [optional] 
+**shopPhoneNo** | **String** |  | [optional] 
+**status** | **String** |  | [optional] 
+**statusDesc** | **String** |  | [optional] 
+**statusType** | **String** |  | [optional] 
+**statusTypeDesc** | **String** |  | [optional] 
+**tireItemList** | [**[TireService]**](TireService.md) |  | [optional] 
+**vehicleGuid** | **String** |  | [optional] 
+
+
